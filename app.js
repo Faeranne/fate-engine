@@ -1,4 +1,5 @@
 express = require('express');
+nano = require('nano')('http://couchdb:5984');
 app = express();
 
 app.set('port', process.env.PORT || 8080);

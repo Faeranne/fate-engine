@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/mrmakeit/fate-engine",
   "dependencies": {
-    "express": "^4.13.1"
+    "express": "^4.13.1",
+    "nano": "^6.1.4"
   }
 }
