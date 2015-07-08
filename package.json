@@ -1,0 +1,28 @@
+{
+  "name": "fate-engine",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrmakeit/fate-engine.git"
+  },
+  "contributors": [
+    {
+      "name": "Blixa Morgan",
+      "email": "blixa@projectmakeit.com",
+      "url": "http://mrmakeit.me/"
+    }
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mrmakeit/fate-engine/issues"
+  },
+  "homepage": "https://github.com/mrmakeit/fate-engine",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
