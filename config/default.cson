@@ -1,0 +1,10 @@
+web:
+	port: 8080
+	session:
+		secret: 'Hello World'
+
+db:
+	url: ''
+	options:
+		dialect: 'sqlite'
+		storage: 'db/database.sqlite'

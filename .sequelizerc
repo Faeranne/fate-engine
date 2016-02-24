@@ -1,0 +1,7 @@
+module.exports = {
+  "config":"config/database.json",
+  "coffee": true,
+  "migrations-path":"db/migrations",
+  "seeders-path":"db/seeder",
+  "models-path":"src/models"
+}
